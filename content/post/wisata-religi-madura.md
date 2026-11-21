@@ -42,6 +42,7 @@ Bujuk Sara adalah komplek makam tokoh ulama atau penyebar Islam yang dikeramatka
 ### Isi Komplek Makam Bujuk Sara
 
 Komplek ini terdiri dari tiga makam utama:
+
 1. Sayyid Abdullah (di sebelah kanan) — merupakan salah satu guru Thoriqoh dari Syaikhona Kholil Bangkalan.
 2. Sayyidah Siti Maisarah (di bagian tengah) — yang sering kali namanya menjadi asal-sebutan dari Bujuk Sara.
 3. Syeikh Syarifuddin (di sebelah kiri) — yang diyakini merupakan keturunan dari Syaikh Abdul Qadir Al-Jailani.
@@ -51,7 +52,7 @@ Di halaman makam terdapat sumur keramat peninggalan Sayid Abdullah yang airnya s
 Kalian untuk sampai ke makam Bujuksara ini tentu harus jalan kaki sekitar 100 meter untuk sampai makam ini. 
 
 ## 2. Makam Mbah Kolil Bangkalan
-![Makam Mbah Kolil Bangkalan](./img/wisata-religi-madura/madura.jpg)
+![Makam Mbah Kolil Bangkalan](/img/wisata-religi-madura/madura.jpg)
 Selanjutnya yang kedua adalah makam Mbah Kolil Bangkalan yang mana butuh beberapa menit saja dari Bujuksara ini. 
 
 Makam Syaikhona Kholil (Mbah Kholil) adalah salah satu destinasi wisata religi paling utama di Pulau Madura. Syaikhona Kholil dikenal sebagai maha guru dari para ulama besar di Nusantara, termasuk pendiri Nahdlatul Ulama, KH. Hasyim Asy'ari.
@@ -68,7 +69,9 @@ Apakah Anda membutuhkan rekomendasi kuliner khas Bangkalan terdekat untuk dikunj
 
 Selanjutnya ke Aermata Ibu yang mana masih di Kabupaten Bangkalan yang dikunjungi. 
 
-Makam Aer Mata Ibu (sering disebut Aermata Ebu atau Pasarean Ratu Ibu) adalah kompleks pemakaman kuno bangsawan Madura dari Wangsa Cakraningrat. Terletak di Desa Buduran, Kecamatan Arosbaya, Kabupaten Bangkalan, situs ini berjarak sekitar 11–12 km ke arah utara dari pusat Kota Bangkalan.
+Makam Aer Mata Ibu (sering disebut Aermata Ebu atau Pasarean Ratu Ibu) adalah kompleks pemakaman kuno bangsawan Madura dari Wangsa Cakraningrat.
+
+Terletak di Desa Buduran, Kecamatan Arosbaya, Kabupaten Bangkalan, situs ini berjarak sekitar 11–12 km ke arah utara dari pusat Kota Bangkalan.
 
 ### Asal-Usul Nama & Legenda Ratu Ibu
 
@@ -111,6 +114,7 @@ Di dalam komplek pesarean ini, terdapat makam para ulama dan buju' (buyut) penye
 1.  (Syekh Abdul Manan) — Ulama perintis dan salah satu tokoh utama dari silsilah Wali Batu Ampar.
 2. Buju’ Tumpeng (Syekh Muhammad Syamsuddin) — Putra dari Buju' Abdul Manan, dikenal dengan julukan ini karena keteguhannya dalam bertapa/tirakat demi umat.
 3.  (Syekh Arif) — Cucu dari Buju' Abdul Manan, diberi julukan Lattong (kotoran sapi) karena karomah beliau yang mampu menyembunyikan identitas spiritualnya agar tidak pamer di hadapan manusia.
+
 Para ulama Batu Ampar ini juga merupakan leluhur dari banyak kiai besar di Jawa Timur, termasuk para pendiri pondok pesantren legendaris di Madura.
 
 ### Asal-Usul Nama & Tradisi Ziarah
@@ -120,7 +124,9 @@ Para ulama Batu Ampar ini juga merupakan leluhur dari banyak kiai besar di Jawa 
 
 ## 6. Asta Tinggi
 
-Selanjutnya adalah Asta Tinggi, Siapa itu Asta Tinggi? **Asta Tinggi** (Astah Tegghih) adalah kompleks pemakaman suci khusus bagi raja-raja dan keluarga bangsawan Keraton Sumenep. Terletak di kawasan dataran tinggi Desa Kebonagung, Kecamatan Kota Sumenep, Kabupaten Sumenep, situs ini merupakan salah satu episentrum wisata religi paling megah dan bersejarah di ujung timur Pulau Madura.
+**Selanjutnya adalah Asta Tinggi, Siapa itu Asta Tinggi?**
+
+**Asta Tinggi** (Astah Tegghih) adalah kompleks pemakaman suci khusus bagi raja-raja dan keluarga bangsawan Keraton Sumenep. Terletak di kawasan dataran tinggi Desa Kebonagung, Kecamatan Kota Sumenep, Kabupaten Sumenep, situs ini merupakan salah satu episentrum wisata religi paling megah dan bersejarah di ujung timur Pulau Madura.
 Dalam bahasa Madura, kata Asta berarti makam atau kuburan (sering dikaitkan dengan kediaman para tokoh dihormati), sementara Tinggi merujuk pada lokasinya yang berada di area perbukitan.
 
 Asta Tinggi (Astah Tegghih) adalah kompleks pemakaman suci khusus bagi raja-raja dan keluarga bangsawan Keraton Sumenep. Terletak di kawasan dataran tinggi Desa Kebonagung, Kecamatan Kota Sumenep, Kabupaten Sumenep, situs ini merupakan salah satu episentrum wisata religi paling megah dan bersejarah di ujung timur Pulau Madura.
@@ -140,7 +146,7 @@ Daya tarik utama dari Asta Tinggi selain nilai spiritualnya adalah kemegahan vis
 - **Kubah Makam Berwarna-warni**: Kompleks makam ini tidak terasa suram, melainkan tampak indah berkat bangunan kubah (kubah pangeran) bercat kuning dan hijau cerah yang bergaya khas bangunan keraton.
 
 ## 7. Makam Sayyid Yusuf
-![Makam Mbah Kolil Bangkalan](./img/wisata-religi-madura/2.jpg)
+![Makam Mbah Kolil Bangkalan](/img/wisata-religi-madura/2.jpg)
 Ini merupakan Tujuan Terakhir saat Ziarah Wali ke Madura, untuk sampai ke makam ini tentu kalian harus naik kapal supaya sampai ke makam nya. 
 
 Setelah naik kapan kalian harus naik becak motor untuk menuju makam nya, karena tempat nya masih jauh dari pelabuhan. 
@@ -159,7 +165,7 @@ Di Pulau Poteran, Kecamatan Talango, Kabupaten Sumenep, terdapat makam yang pali
 Jika Anda ingin mengetahui rute penyeberangan perahu dari Pelabuhan Kalianget menuju Pulau Poteran atau jam kunjungan ziarah.
 
 ## 8. Makam Sunan Ampel
-![Makam Sunan Ampel](/img/wisata-religi-madura/4.jpg)
+![Makam Sunan Ampel](/img/wisata-religi-madura/3.jpg)
 Tujuan Terakhir adalah makam sunan ampel yang ada di surabaya, tentu bagi kalian yang suka wisata religi di jawa khusus nya di jawa timur tentu makam sunan ampel ini banyak di kunjungi para peziarah dari penjuru kota. 
 
 Makam Sunan ampel ini tidak pernah sepi dari para peziarah srtiap hari nya. 
