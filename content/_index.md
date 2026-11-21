@@ -1,5 +1,5 @@
 ---
-title: "Blog Kang Sudar"
+title: "Sudar Blogger"
 date: 2020-08-31T20:12:09+08:00
 draft: false
 
