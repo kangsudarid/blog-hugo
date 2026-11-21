@@ -15,7 +15,6 @@ services:
 
 permalinks:
   page: '/:slug/'
-  post: '/:slug/'
 
 
 params:
