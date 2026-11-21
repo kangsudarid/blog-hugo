@@ -18,5 +18,5 @@ min_version = "0.159.1"
 [original]
   name = "Sudar Blogger"
   homepage = "https://www.sudarblogger.com"
-  repo = ""
+  repo = "https://github.com/kangsudarid/blog-hugo"
 googleAnalytics = "G-CD1PXK7Y6F"
