@@ -1,5 +1,5 @@
-baseurl: 'https://www.sudarblogger.web.id'
-title: Blog Kang Sudar
+baseurl: 'https://www.sudarblogger.com'
+title: Sudar Blogger
 theme: ardianta
 # disqusShortname: ardianta
 
@@ -11,7 +11,7 @@ services:
     googleAnalytics: 'G-CD1PXK7Y6F'
 
   disqus:
-    shortname: sudarblogs
+    shortname: sudarblogger
 
 permalinks:
   page: '/:slug/'
@@ -23,7 +23,7 @@ params:
   email: admin@sudarblogger.com
   description: 'Hello, Saya Sudar. Blog ini belum jadi. Sabar ya...'
   social:
-    github: https://github.com/sudarcode
+    github: https://github.com/kangsudar
     youtube: https://youtube.com/@sudardiary
     instagram: https://instagram.com/20.22sh
     facebook: https://www.facebook.com/Nauval.sudarmanto
@@ -60,7 +60,7 @@ menu:
       weight: 3
     - identifier: github
       name: Github
-      url: 'https://github.com/ardianta'
+      url: 'https://github.com/kangsudar'
       weight: 4
     - identifier: rss
       name: RSS
